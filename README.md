@@ -1,2 +1,3 @@
 # HealthcareApp-Algorithm
-Flu vaccine app employs a PQ system, determining priority based on age and health. Streamlines user assessment for vaccine urgency. Efficiently stores and retrieves priority levels for effective prioritization. For example, older adults with medical conditions receive higher priority.
+The flu vaccine app uses a priority query system, assessing vaccination urgency based on age and health. This allows users to swiftly gauge their priority for the vaccine. Utilizing a PQ data structure optimizes storage and retrieval, ensuring efficient prioritization based on age and medical condition. For instance, an elderly patient with a medical condition receives a higher priority than a healthy younger patient.
+
